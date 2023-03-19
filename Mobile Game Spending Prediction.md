@@ -2,8 +2,8 @@
 Mobile Game Spending Prediction
 Project Name: Mobile Game Spending Prediction
 
-Project type: Data analysis/Algorithm development/Theoretical project
+Project type: Data analysis
 
-Group Members: Name (NetID), Name (NetID), Name (NetID)
+Group Members: Jiawei Gao(jg2352), Yunhan Liu(yl3287)
 
-Course code: 4741/5741
+Course code: 5741
